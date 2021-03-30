@@ -1,5 +1,6 @@
 # Projeto Calculadora em Python
 
-### O Projeto possibilita 5 operações matemáticas: Adição, Subtração, Multiplicação, Divisão e Exponenciação.
+### Project allows 5 mathematical operations and came to the fore with the course “Python: Fundamentals for Data Analysis”, from the Data Science Academy, which was proposed the challenge. Those operations are: Addition, Subtraction, Multiplication, Division and Exponentiation.
 
-Através de Programação Orientada a Objeto, a calculadora permite um loop até o usuário digitar um número disponível da operação desejada. Caso selecione a operação presente na calculadora, o programa irá retornar o resultado.
+
+Through Object Oriented Programming, the calculator allows a loop until the user enters an available number of the desired operation. If you select the operation present on the calculator, the program will return the result.
