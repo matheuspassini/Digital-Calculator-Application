@@ -1,6 +1,5 @@
-# Projeto Calculadora em Python
+# Project Title: Digital Calculator Application
 
-### Project allows 5 mathematical operations and came to the fore with the course “Python: Fundamentals for Data Analysis”, from the Data Science Academy, which was proposed the challenge. Those operations are: Addition, Subtraction, Multiplication, Division and Exponentiation.
+The Digital Calculator project, powered by Python, influenced by the "Python: Fundamentals for Data Analysis" course provided by the Data Science Academy, empowers users to execute five fundamental mathematical operations: Addition, Subtraction, Multiplication, Division, and Exponentiation.
 
-
-Through Object Oriented Programming, the calculator allows a loop until the user enters an available number of the desired operation. If you select the operation present on the calculator, the program will return the result.
+Built upon Object-Oriented Programming principles, this calculator enables users to input operations seamlessly. The program guides users through the selection of desired operations from the available options. Once an operation is chosen, the calculator efficiently computes the result, enhancing the overall mathematical experience for users.
